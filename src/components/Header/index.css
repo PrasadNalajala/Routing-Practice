@@ -1,0 +1,28 @@
+/* Write your CSS code here */
+ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+}
+li{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    padding: 5px;
+    color: #12022f;
+}
+h1{
+    color: #6d396b;
+}
+p{
+    color: #555555;
+}
+.nav-items{
+display: flex;
+justify-content: center;
+}
+.navImg{
+    height: 50px;
+}
